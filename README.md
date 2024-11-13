@@ -1,5 +1,4 @@
-## Hi there 👋
-
+<h2> Hi, I'm Lena! <img src="https://media.giphy.com/media/jPM0YeT0kl2BoEkltk/giphy.gif" width="50"></h2>
 <!--
 **lenabinder1001/lenabinder1001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
